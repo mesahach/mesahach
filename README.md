@@ -40,8 +40,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mesahach&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mesahach&theme=radical" width="47%" />
 </p>
 
 ---
@@ -49,13 +49,13 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:fridaymeshach@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="www.linkedin.com/in/meshach-friday-ab3821211">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/your-twitter">
+  <a href="https://twitter.com/fridaymeshach">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
 </p>
